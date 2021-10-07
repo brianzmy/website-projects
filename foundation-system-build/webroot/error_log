@@ -1,0 +1,4 @@
+[11-Sep-2019 12:02:10 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/artsearc/public_html/foundation-system-build/config/requirements.php on line 31
+[11-Sep-2019 12:06:00 UTC] PHP Fatal error:  You must enable the intl extension to use CakePHP.
+ in /home/artsearc/public_html/tprojects/config/requirements.php on line 31
